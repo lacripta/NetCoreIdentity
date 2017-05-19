@@ -1,0 +1,8 @@
+/Users/jose/workspace/IdentityServer4.Samples/Quickstarts/6_AspNetIdentity/src/Api/bin/Debug/netcoreapp1.1/Api.deps.json
+/Users/jose/workspace/IdentityServer4.Samples/Quickstarts/6_AspNetIdentity/src/Api/bin/Debug/netcoreapp1.1/Api.runtimeconfig.json
+/Users/jose/workspace/IdentityServer4.Samples/Quickstarts/6_AspNetIdentity/src/Api/bin/Debug/netcoreapp1.1/Api.runtimeconfig.dev.json
+/Users/jose/workspace/IdentityServer4.Samples/Quickstarts/6_AspNetIdentity/src/Api/bin/Debug/netcoreapp1.1/Api.dll
+/Users/jose/workspace/IdentityServer4.Samples/Quickstarts/6_AspNetIdentity/src/Api/bin/Debug/netcoreapp1.1/Api.pdb
+/Users/jose/workspace/IdentityServer4.Samples/Quickstarts/6_AspNetIdentity/src/Api/obj/Debug/netcoreapp1.1/Api.AssemblyInfo.cs
+/Users/jose/workspace/IdentityServer4.Samples/Quickstarts/6_AspNetIdentity/src/Api/obj/Debug/netcoreapp1.1/Api.dll
+/Users/jose/workspace/IdentityServer4.Samples/Quickstarts/6_AspNetIdentity/src/Api/obj/Debug/netcoreapp1.1/Api.pdb

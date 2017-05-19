@@ -1,0 +1,8 @@
+/Users/jose/workspace/IdentityServer4.Samples/Quickstarts/6_AspNetIdentity/src/MvcClient/bin/Debug/netcoreapp1.1/MvcClient.deps.json
+/Users/jose/workspace/IdentityServer4.Samples/Quickstarts/6_AspNetIdentity/src/MvcClient/bin/Debug/netcoreapp1.1/MvcClient.runtimeconfig.json
+/Users/jose/workspace/IdentityServer4.Samples/Quickstarts/6_AspNetIdentity/src/MvcClient/bin/Debug/netcoreapp1.1/MvcClient.runtimeconfig.dev.json
+/Users/jose/workspace/IdentityServer4.Samples/Quickstarts/6_AspNetIdentity/src/MvcClient/bin/Debug/netcoreapp1.1/MvcClient.dll
+/Users/jose/workspace/IdentityServer4.Samples/Quickstarts/6_AspNetIdentity/src/MvcClient/bin/Debug/netcoreapp1.1/MvcClient.pdb
+/Users/jose/workspace/IdentityServer4.Samples/Quickstarts/6_AspNetIdentity/src/MvcClient/obj/Debug/netcoreapp1.1/MvcClient.AssemblyInfo.cs
+/Users/jose/workspace/IdentityServer4.Samples/Quickstarts/6_AspNetIdentity/src/MvcClient/obj/Debug/netcoreapp1.1/MvcClient.dll
+/Users/jose/workspace/IdentityServer4.Samples/Quickstarts/6_AspNetIdentity/src/MvcClient/obj/Debug/netcoreapp1.1/MvcClient.pdb

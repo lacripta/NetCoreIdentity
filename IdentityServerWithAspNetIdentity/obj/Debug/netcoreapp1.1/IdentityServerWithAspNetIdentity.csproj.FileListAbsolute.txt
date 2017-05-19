@@ -1,0 +1,10 @@
+/Users/jose/workspace/IdentityServer4.Samples/Quickstarts/6_AspNetIdentity/src/IdentityServerWithAspNetIdentity/bin/Debug/netcoreapp1.1/IdentityServerWithAspNetIdentity.deps.json
+/Users/jose/workspace/IdentityServer4.Samples/Quickstarts/6_AspNetIdentity/src/IdentityServerWithAspNetIdentity/bin/Debug/netcoreapp1.1/IdentityServerWithAspNetIdentity.runtimeconfig.json
+/Users/jose/workspace/IdentityServer4.Samples/Quickstarts/6_AspNetIdentity/src/IdentityServerWithAspNetIdentity/bin/Debug/netcoreapp1.1/IdentityServerWithAspNetIdentity.runtimeconfig.dev.json
+/Users/jose/workspace/IdentityServer4.Samples/Quickstarts/6_AspNetIdentity/src/IdentityServerWithAspNetIdentity/bin/Debug/netcoreapp1.1/IdentityServerWithAspNetIdentity.dll
+/Users/jose/workspace/IdentityServer4.Samples/Quickstarts/6_AspNetIdentity/src/IdentityServerWithAspNetIdentity/bin/Debug/netcoreapp1.1/IdentityServerWithAspNetIdentity.pdb
+/Users/jose/workspace/IdentityServer4.Samples/Quickstarts/6_AspNetIdentity/src/IdentityServerWithAspNetIdentity/obj/Debug/netcoreapp1.1/IdentityServerWithAspNetIdentity.AssemblyInfo.cs
+/Users/jose/workspace/IdentityServer4.Samples/Quickstarts/6_AspNetIdentity/src/IdentityServerWithAspNetIdentity/obj/Debug/netcoreapp1.1/IdentityServerWithAspNetIdentity.dll
+/Users/jose/workspace/IdentityServer4.Samples/Quickstarts/6_AspNetIdentity/src/IdentityServerWithAspNetIdentity/obj/Debug/netcoreapp1.1/IdentityServerWithAspNetIdentity.pdb
+/Users/jose/workspace/IdentityServer4.Samples/Quickstarts/6_AspNetIdentity/src/IdentityServerWithAspNetIdentity/obj/Debug/netcoreapp1.1/IdentityServerWithAspNetIdentity.csprojResolveAssemblyReference.cache
+/Users/jose/workspace/IdentityServer4.Samples/Quickstarts/6_AspNetIdentity/src/IdentityServerWithAspNetIdentity/obj/Debug/netcoreapp1.1/IdentityServerWithAspNetIdentity.csproj.CoreCompileInputs.cache

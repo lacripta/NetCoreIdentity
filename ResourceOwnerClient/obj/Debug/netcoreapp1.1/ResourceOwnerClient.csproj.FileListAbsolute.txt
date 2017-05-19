@@ -1,0 +1,8 @@
+/Users/jose/workspace/IdentityServer4.Samples/Quickstarts/6_AspNetIdentity/src/ResourceOwnerClient/bin/Debug/netcoreapp1.1/ResourceOwnerClient.deps.json
+/Users/jose/workspace/IdentityServer4.Samples/Quickstarts/6_AspNetIdentity/src/ResourceOwnerClient/bin/Debug/netcoreapp1.1/ResourceOwnerClient.runtimeconfig.json
+/Users/jose/workspace/IdentityServer4.Samples/Quickstarts/6_AspNetIdentity/src/ResourceOwnerClient/bin/Debug/netcoreapp1.1/ResourceOwnerClient.runtimeconfig.dev.json
+/Users/jose/workspace/IdentityServer4.Samples/Quickstarts/6_AspNetIdentity/src/ResourceOwnerClient/bin/Debug/netcoreapp1.1/ResourceOwnerClient.dll
+/Users/jose/workspace/IdentityServer4.Samples/Quickstarts/6_AspNetIdentity/src/ResourceOwnerClient/bin/Debug/netcoreapp1.1/ResourceOwnerClient.pdb
+/Users/jose/workspace/IdentityServer4.Samples/Quickstarts/6_AspNetIdentity/src/ResourceOwnerClient/obj/Debug/netcoreapp1.1/ResourceOwnerClient.AssemblyInfo.cs
+/Users/jose/workspace/IdentityServer4.Samples/Quickstarts/6_AspNetIdentity/src/ResourceOwnerClient/obj/Debug/netcoreapp1.1/ResourceOwnerClient.dll
+/Users/jose/workspace/IdentityServer4.Samples/Quickstarts/6_AspNetIdentity/src/ResourceOwnerClient/obj/Debug/netcoreapp1.1/ResourceOwnerClient.pdb
